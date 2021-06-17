@@ -1,8 +1,14 @@
 # Simple React Blog Manager
+credit: [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 To start the json server
 ### `cd src`
+for backend server
 ### `npx json-server --watch data/db.json --port 8000`
+#Screenshots
+![image](https://user-images.githubusercontent.com/60045529/122348279-9e0afa00-cf68-11eb-88a6-6e6ca551af31.png)
+![image](https://user-images.githubusercontent.com/60045529/122348399-bed34f80-cf68-11eb-8735-dfeabb0ec82b.png)
+![image](https://user-images.githubusercontent.com/60045529/122348533-e2969580-cf68-11eb-87c8-0e1f9ee6a34e.png)
 
 # Getting Started with Create React App
 
